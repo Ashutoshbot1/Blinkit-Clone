@@ -1,0 +1,11 @@
+@media only screen and (min-width:1150px) and (max-width:1400px){
+    :root{
+        font-size: 50%;
+    }
+}
+
+@media only screen/*and (min-width:1150px)*/ and (max-width:1149px){
+    :root{
+        font-size: 37%;
+    }
+}
